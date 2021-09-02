@@ -1,0 +1,8 @@
+Server: jrptaxserviceinc.com
+anatoly@jrptaxserviceinc.com
+pass: 4Fdgt%rdwe#4
+
+Mysql database:
+name: solucio3_jrp_dev
+user: solucio3_anatoly
+Pass: 4Fdgt%rdwe#4
